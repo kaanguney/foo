@@ -1,1 +1,4 @@
 # foo
+```bash
+random challenges
+```
